@@ -1,0 +1,7 @@
+{
+  "name": "FinTrack",
+  "description": "Personal finance and wealth tracker with spends matrix, smart bank SMS reader, asset portfolio, and net worth insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
